@@ -1,7 +1,14 @@
 # IM1002_ML
 Machine learning, gaze estimation with Google MediaPipe using SVM, K-Nearest Neighbor, Decision Tree and Random Forest classifiers.
 
-Before running Notebook 2 and later please unzip data.zip to a local folder ./data
+Some routines used in the note books are set into a library called:
+
+pose_ml.py
+
+use 
+
+import pose_ml as pml
+
 
 ## Notebook 1
 ### POSE Landmark acquisition and storage
